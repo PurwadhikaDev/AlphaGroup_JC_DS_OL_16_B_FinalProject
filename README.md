@@ -8,7 +8,17 @@ Hermily Tjia
 Tableau Link: https://public.tableau.com/app/profile/hermily1937/viz/AlphaGroup_Telemarketing_Bank_Campaign/Dashboard1?publish=yes
 
 ## Konteks
+Perbankan di Portugal memainkan peran penting dalam perekonomian dengan menyediakan berbagai layanan keuangan, termasuk produk investasi seperti *term deposit*. Produk ini memberikan keuntungan bagi bank dalam menjaga stabilitas keuangan serta menawarkan opsi investasi berisiko rendah bagi nasabah. Namun, konversi pelanggan ke produk ini masih menjadi tantangan, terutama dalam strategi pemasaran yang dilakukan melalui telemarketing.
 
+Tagus Bank menggunakan strategi telemarketing untuk menawarkan term deposit kepada nasabah. Meskipun metode ini memungkinkan bank menjangkau lebih banyak nasabah, efektivitasnya masih dipertanyakan karena banyak panggilan yang tidak menghasilkan konversi. Data menunjukkan bahwa dari seluruh kampanye yang telah dilakukan, hanya **11,3% nasabah yang menerima tawaran term deposit, sementara 88,7% lainnya menolak.** Selain itu, faktor seperti status pekerjaan, usia, riwayat kampanye sebelumnya, dan durasi panggilan diduga memiliki korelasi dengan keputusan nasabah dalam menerima atau menolak penawaran.
+
+Tingginya tingkat penolakan ini mengindikasikan bahwa strategi telemarketing saat ini belum optimal dalam meningkatkan *conversion rate*. Untuk meningkatkan keberhasilan kampanye, diperlukan pendekatan berbasis data guna mengidentifikasi pola dan karakteristik nasabah yang lebih mungkin menerima penawaran. Dengan memahami faktor-faktor utama yang memengaruhi keputusan nasabah, tim telemarketing dapat menyusun strategi yang lebih tepat sasaran dan meningkatkan peluang konversi.
+
+Oleh karena itu, **Head of Telemarketing** di Tagus Bank meminta tim Data Scientist untuk melakukan analisis data dan membangun model prediktif guna mengoptimalkan strategi pemasaran dan meningkatkan rasio konversi telemarketing. Model ini diharapkan dapat membantu tim telemarketing dalam menentukan kelompok nasabah dengan probabilitas konversi lebih tinggi, sehingga upaya pemasaran dapat lebih efektif dan terarah.
+
+Target:  
+- 0: Nasabah menolak penawaran term deposit
+- 1: Nasabah menerima penawaran term deposit
 ## Permasalahan
 Perbankan di Portugal memainkan peran penting dalam perekonomian dengan menyediakan berbagai layanan keuangan, termasuk produk investasi seperti *term deposit*. Produk ini memberikan keuntungan bagi bank dalam menjaga stabilitas keuangan serta menawarkan opsi investasi berisiko rendah bagi nasabah. Namun, konversi pelanggan ke produk ini masih menjadi tantangan, terutama dalam strategi pemasaran yang dilakukan melalui telemarketing.
 
