@@ -5,7 +5,7 @@ Anggota Kelompok:
 Destaria Anripal
 Hermily Tjia
 
-[Tableau Dashboard]([https://public.tableau.com/app/profile/hermily1937/viz/AlphaGroup_Telemarketing_Bank_Campaign/Dashboard1?publish=yes](https://public.tableau.com/app/profile/hermily1937/viz/AlphaGroup-TelemarketingBankCampaign/Dashboard)
+[Tableau Dashboard](https://public.tableau.com/app/profile/hermily1937/viz/AlphaGroup-TelemarketingBankCampaign/Dashboard)
 
 ## Konteks
 Perbankan di Portugal memainkan peran penting dalam perekonomian dengan menyediakan berbagai layanan keuangan, termasuk produk investasi seperti *term deposit*. Produk ini memberikan keuntungan bagi bank dalam menjaga stabilitas keuangan serta menawarkan opsi investasi berisiko rendah bagi nasabah. Namun, konversi pelanggan ke produk ini masih menjadi tantangan, terutama dalam strategi pemasaran yang dilakukan melalui telemarketing.
