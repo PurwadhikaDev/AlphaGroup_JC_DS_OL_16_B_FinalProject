@@ -1,10 +1,5 @@
 # Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit
 
-Anggota Kelompok:
-
-Destaria Anripal
-Hermily Tjia
-
 [Tableau Dashboard](https://public.tableau.com/app/profile/hermily1937/viz/AlphaGroup-TelemarketingBankCampaign/Dashboard?publish=yes)
 ![Alt text](https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_16_B_FinalProject/blob/main/Tableau.png)
 
@@ -130,3 +125,10 @@ Berdasarkan analisis yang dilakukan, dapat disimpulkan bahwa keputusan nasabah u
 - **Integrasi Model Prediksi dalam Skrip Telemarketing:** Hasil prediksi dari model dapat diintegrasikan langsung dalam skrip atau sistem telemarketing. Telemarketer dapat melihat skor prediksi atau probabilitas bahwa nasabah cenderung menerima tawaran (*warm to hot leads*) atau menolak tawaran (*cold leads*) sebelum melakukan panggilan. Dengan demikian, mereka bisa lebih siap dan menyesuaikan pendekatan mereka berdasarkan data tersebut, misalnya dengan menawarkan produk yang lebih relevan atau memberikan penawaran khusus berdasarkan profil nasabah.
 
 - **Penyesuaian dan Pembaruan Berdasarkan Feedback Pengguna:** Mengingat keterbatasan waktu dalam pengembangan model, penting untuk membangun siklus pembelajaran yang berkelanjutan. Feedback dari tim telemarketing dan hasil kampanye dapat digunakan untuk memperbarui dan menyesuaikan model secara berkala. Ini akan memastikan bahwa model dapat tetap relevan dan akurat seiring berjalannya waktu.
+
+### Author
+Projek ini dibuat sebagai ketentuan dalam pelaksanaan Final Project Data Science & Machine Learning Bootcamp yang diadakan oleh Purwadhika.
+
+Dibuat oleh:
+- Destaria Anripal
+- Hermily Tjia
